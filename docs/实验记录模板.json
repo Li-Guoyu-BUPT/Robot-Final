@@ -1,0 +1,87 @@
+{
+  "experiment_id": null,
+  "date": "2026-11-15",
+  "operator": null,
+  "observer": null,
+  "scene_id": null,
+  "condition": null,
+  "repetition": null,
+  "robot": {
+    "ip": null,
+    "hostname": "lemon-NUC8i3BEH",
+    "bodyhub_state": null,
+    "control_owner": null,
+    "gait_publishers": [],
+    "camera_info_file": null,
+    "code_snapshot": null
+  },
+  "recording": {
+    "session_path": null,
+    "camera_stationary": null,
+    "start_time": null,
+    "end_time": null,
+    "command_log": null,
+    "state_log": null,
+    "reference_video": null,
+    "frame_count": null,
+    "pc_receive_fps": null,
+    "max_pair_delta_ms": null
+  },
+  "single_step": {
+    "command_id": null,
+    "nonzero_publish_count": null,
+    "physical_footfall_count": null,
+    "measured_dx_m": null,
+    "measured_dy_m": null,
+    "measured_yaw_deg": null,
+    "completion_feedback": null,
+    "stop_response_s": null,
+    "residual_motion_m": null
+  },
+  "reference": {
+    "object_dimensions_m": null,
+    "reference_photos": [],
+    "route_marker_notes": null,
+    "actual_return_error_m": null
+  },
+  "processing": {
+    "command": null,
+    "config": null,
+    "output_dir": null,
+    "map_reopened": null,
+    "integrated_frames": null,
+    "failed_frames": null,
+    "scale_error_percent": null,
+    "static_drift_m": null,
+    "static_drift_deg": null
+  },
+  "downstream": {
+    "reference_session": null,
+    "query_session": null,
+    "change_type": null,
+    "changed_object_id": null,
+    "true_old_location": null,
+    "true_new_location": null,
+    "occlusion_notes": null,
+    "allowed_view_ids": [],
+    "max_views": null
+  },
+  "result": {
+    "status": "not_run",
+    "observations": null,
+    "blockers": [],
+    "next_action": null
+  },
+  "tether_and_power": {
+    "cable_role": null,
+    "connected_devices": null,
+    "power_source": null,
+    "battery_present": false,
+    "motion_power_supported": null,
+    "usable_range_m_approx": 1,
+    "measured_slack_m": null,
+    "work_zone_photo": null,
+    "station_id": null,
+    "shared_registration_anchor": null
+  }
+}

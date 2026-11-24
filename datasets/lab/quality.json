@@ -1,0 +1,29 @@
+{
+  "registered": 167,
+  "total": 172,
+  "first_registered": 40,
+  "second_registered": 37,
+  "third_registered": 90,
+  "unregistered": [
+    "IMG_20261120_191700.jpg",
+    "IMG_20261120_195820.jpg",
+    "IMG_20261120_195922.jpg",
+    "IMG_20261120_195941.jpg",
+    "IMG_20261120_195946.jpg"
+  ],
+  "degenerate_views_excluded": [
+    "IMG_20261120_195820.jpg",
+    "IMG_20261120_195941.jpg",
+    "IMG_20261120_195946.jpg"
+  ],
+  "sparse_points": 52749,
+  "mean_reprojection_error": 1.125901816768371,
+  "mean_track_length": 2.8094371457278813,
+  "metric_scale": false,
+  "cross_batch_tracks": 19289,
+  "error_percentiles": [
+    1.080277089568539,
+    2.0337494404980605,
+    2.297963192513726
+  ]
+}
