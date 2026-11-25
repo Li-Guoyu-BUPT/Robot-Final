@@ -32,6 +32,8 @@ python -m http.server 8000 --directory frontend
 
 原始照片、视频和大体积点云没有直接复制进 Git 发布目录，避免仓库膨胀；数据组织、批次、质量统计和可复现实验入口见 [`datasets/lab/README.md`](datasets/lab/README.md)。后续如需公开原始数据，建议使用 Git LFS 或 GitHub Release 附件。
 
+完整原始实验室数据集下载：<https://pan.baidu.com/s/12utlAPnHB9qxjvEsCxoQpQ>，提取码：`2026`。
+
 ## 安全提示
 
 机器人控制脚本只应在有人现场看护、机器人有防跌支撑且确认本体状态后使用。不要把 SSH/VNC 密码、现场日志中的凭据或私有网络配置提交到仓库。
